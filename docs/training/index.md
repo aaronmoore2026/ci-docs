@@ -1,3 +1,11 @@
+[Home](../) | 
+[Get Access](../get-access/) | 
+[Training](../training/) | 
+[Policies](../policies/) | 
+[Examples](../examples/) | 
+[Support](../support/)
+
+---
 # Training for JSU Research Computing
 
 Jackson State University provides structured training to help students, faculty, and research teams **successfully use research computing resources** and develop modern computational research skills.
