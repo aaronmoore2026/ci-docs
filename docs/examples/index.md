@@ -1,9 +1,11 @@
-[Home](../) | 
-[Get Access](../get-access/) | 
-[Training](../training/) | 
-[Policies](../policies/) | 
-[Examples](../examples/) | 
-[Support](../support/)
+[Home](/ci-docs/) | 
+[Get Access](/ci-docs/get-access/) | 
+[Training](/ci-docs/training/) | 
+[Policies](/ci-docs/policies/) | 
+[Examples](/ci-docs/examples/) | 
+[Support](/ci-docs/support/)
+
+---
 
 ---
 # HTCondor Job Examples
