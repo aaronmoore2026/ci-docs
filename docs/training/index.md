@@ -28,7 +28,10 @@ These skills prepare researchers to work efficiently on **shared cyberinfrastruc
 
 These repositories include starter materials, exercises, and copy/paste examples to support onboarding and independent learning.
 
+- **Official HTC Training Curriculum (PDF):**  
+  https://github.com/jsu-research-computing/ci-training-assets/blob/main/pdf/JSU_HTC_Training_Curriculum_v1.0_20250924.pdf
 ---
+
 
 ## Core Training Modules
 
