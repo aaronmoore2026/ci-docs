@@ -1,3 +1,11 @@
+[Home](../) | 
+[Get Access](../get-access/) | 
+[Training](../training/) | 
+[Policies](../policies/) | 
+[Examples](../examples/) | 
+[Support](../support/)
+
+---
 # Policies and Responsible Use
 
 JSU Research Computing resources are shared across the university community. To maintain a secure, reliable, and fair environment for all users, we publish clear policies and expectations for system use.
