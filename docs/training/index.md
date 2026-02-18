@@ -8,6 +8,7 @@ These learning pathways support both **first-time users** and **advanced researc
 
 ## Training Goals
 
+
 JSU Research Computing training is designed to help users:
 
 - understand **High-Throughput Computing (HTC)** concepts and terminology  
@@ -17,6 +18,15 @@ JSU Research Computing training is designed to help users:
 - develop **reproducible software environments** for research workflows  
 
 These skills prepare researchers to work efficiently on **shared cyberinfrastructure systems** and national computing platforms.
+
+---
+
+## Training Resources (Quick Links)
+
+- **HTC Training Modules (GitHub):** https://github.com/jsu-research-computing/htc-training  
+- **HTCondor Examples (GitHub):** https://github.com/jsu-research-computing/htcondor-examples  
+
+These repositories include starter materials, exercises, and copy/paste examples to support onboarding and independent learning.
 
 ---
 
