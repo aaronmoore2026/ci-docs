@@ -83,7 +83,37 @@ This site is the front-end for the JSU Research Computing GitHub organization:
 https://github.com/jsu-research-computing
 
 Key repositories:
-- **ci-policy** (official policies)
-- **ci-training-assets** (official curriculum PDFs)
-- **htc-training** (hands-on modules)
-- **htcondor-examples** (starter job workflows)
+### Key Repositories
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:10px;">
+
+<a href="https://github.com/jsu-research-computing/ci-policy" style="text-decoration:none;">
+<div style="border:1px solid #d0d7de; border-radius:8px; padding:12px 16px; width:220px;">
+<b>📜 ci-policy</b><br>
+Official policies and usage guidelines
+</div>
+</a>
+
+<a href="https://github.com/jsu-research-computing/ci-training-assets" style="text-decoration:none;">
+<div style="border:1px solid #d0d7de; border-radius:8px; padding:12px 16px; width:220px;">
+<b>📚 ci-training-assets</b><br>
+Training curriculum and learning materials
+</div>
+</a>
+
+<a href="https://github.com/jsu-research-computing/htc-training" style="text-decoration:none;">
+<div style="border:1px solid #d0d7de; border-radius:8px; padding:12px 16px; width:220px;">
+<b>🎓 htc-training</b><br>
+Hands-on HTC training modules
+</div>
+</a>
+
+<a href="https://github.com/jsu-research-computing/htcondor-examples" style="text-decoration:none;">
+<div style="border:1px solid #d0d7de; border-radius:8px; padding:12px 16px; width:220px;">
+<b>⚙️ htcondor-examples</b><br>
+Starter HTCondor job workflows
+</div>
+</a>
+
+</div>
+
