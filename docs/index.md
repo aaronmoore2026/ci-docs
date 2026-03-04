@@ -1,108 +1,126 @@
-[Home](/ci-docs/) | 
-[Get Access](/ci-docs/get-access/) | 
-[Training](/ci-docs/training/) | 
-[Policies](/ci-docs/policies/) | 
-[Examples](/ci-docs/examples/) | 
-[Support](/ci-docs/support/)
-
----
----
 # JSU Research Computing (RC)
 
-Welcome to **Jackson State University Research Computing** — a campus resource that supports research, learning, and innovation through advanced computing infrastructure, training, and facilitation.
-
-Our mission is to help students, faculty, and research teams **access computing resources, develop efficient workflows, and run computational research responsibly** in a shared, collaborative environment.
-
----
-
-## Get Started
-
-If you are new to JSU Research Computing, follow these steps:
-
-1. **Request Access** – Submit the Research Computing intake form and describe your project.
-2. **Meet with CI Facilitation** – Discuss computing needs, timelines, and recommended resources.
-3. **Complete Training** – Learn Linux, High-Throughput Computing (HTC), and job submission basics.
-4. **Begin Your Research** – Run workloads on JSU’s research computing systems with ongoing support.
-
-➡ Visit **Get Access** to begin.
+[Home]({{ site.baseurl }}/) |
+[Access]({{ site.baseurl }}/access/) |
+[Training]({{ site.baseurl }}/training/) |
+[Resources]({{ site.baseurl }}/resources/) |
+[OSG @ JSU]({{ site.baseurl }}/osg/) |
+[Support]({{ site.baseurl }}/support/)
 
 ---
 
-## What We Provide
+Welcome to **Jackson State University Research Computing (RC)** — a campus service that supports research, learning, and innovation through advanced computing infrastructure, training, and facilitation.
 
-JSU Research Computing helps researchers:
+Our goal is to help students, faculty, and research teams:
 
-- estimate computing needs (CPU, GPU, memory, and storage)
-- learn research workflows using **Linux, HTCondor, and High-Throughput Computing**
-- manage data and software environments responsibly
-- execute computational jobs efficiently on shared infrastructure
-- connect with national research computing initiatives and training opportunities
-
-Our services are designed to support:
-
-- student research and class projects  
-- faculty scholarship and grant activity  
-- interdisciplinary data science and AI initiatives  
-- collaborative research across institutions  
+* access computing resources
+* learn high-throughput computing workflows
+* run computational research responsibly on shared systems
+* connect with national cyberinfrastructure programs
 
 ---
 
-## Training & Learning
+## 🚀 Get Started
 
-We provide structured learning pathways that introduce:
+### Request Access
 
-- fundamentals of **High-Throughput Computing (HTC)**
-- **Linux command line** and file management
-- **HTCondor job scheduling and execution**
-- data transfer, software environments, and reproducible research practices
+If you are new to JSU Research Computing, start by submitting an access request.
 
-These materials are suitable for **beginners through advanced researchers**.
+You will be guided through onboarding and training before using computing resources.
 
-➡ Visit **Training** to explore modules and tutorials.
+➡ **Start here:**
+{{ site.baseurl }}/access/
 
 ---
 
-## Policies & Responsible Use
+### Training
 
-JSU Research Computing resources are shared across the university community.  
-All users are expected to:
+Users should complete the **JSU HTC training modules** before running jobs on shared systems.
 
-- follow acceptable use and data security policies  
-- protect sensitive or restricted data  
-- use computing resources responsibly and efficiently  
-- complete onboarding and required training before full access  
+Training includes:
 
-➡ Visit **Policies** for full guidelines.
+* introduction to high-throughput computing
+* Linux basics
+* HTCondor job submission
+* data transfer and workflow management
+
+➡ **View training:**
+{{ site.baseurl }}/training/
 
 ---
 
-## Support & Community
+## 📚 Resources
 
-Our **Cyberinfrastructure Facilitation Team** provides:
+### Policies
 
-- intake consultations  
-- technical guidance  
-- troubleshooting support  
-- connections to national CI resources and training  
+All users must follow the official **JSU Research Computing acceptable use policy**.
 
-We are committed to helping the JSU community **turn ideas into impactful computational research**.
+➡ Policy repository:
+https://github.com/jsu-research-computing/ci-policy
 
-➡ Visit **Support** to contact the team or find office hours.
+---
+
+### Training Curriculum
+
+Official JSU Research Computing curriculum and documentation.
+
+➡ Training assets repository:
+https://github.com/jsu-research-computing/ci-training-assets
+
+---
+
+### Example Jobs
+
+Copy-and-run HTCondor workflows to help you submit your first jobs.
+
+Examples include:
+
+* hello-world job
+* file transfer workflow
+* DAGMan pipelines
+
+➡ Example workflows:
+https://github.com/jsu-research-computing/htcondor-examples
+
+---
+
+## 🌎 National Cyberinfrastructure
+
+Jackson State University participates in the **Open Science Grid (OSG)** through the **OSPool high-throughput computing ecosystem**.
+
+This allows researchers to access distributed computing resources across many institutions.
+
+JSU resources are connected through a campus **Compute Element (CE)**.
+
+➡ OSPool institution page:
+https://osg-htc.org/services/ospool/institutions?institution=Jackson+State+University
+
+➡ JSU CE dashboard:
+https://ce-dashboard.ospool.osg-htc.org/overview.html?host=jsu-tigers-ce1
+
+---
+
+## 🧑‍💻 Support
+
+The JSU Cyberinfrastructure team provides:
+
+* onboarding assistance
+* technical guidance
+* troubleshooting support
+* connections to national research computing resources
+
+➡ **Get help:**
+{{ site.baseurl }}/support/
 
 ---
 
 ## About JSU Research Computing
 
-JSU’s Research Computing initiative represents an important step in expanding the university’s:
+JSU’s Research Computing initiative supports the university’s mission to expand:
 
-- research capacity  
-- data science and AI capabilities  
-- national cyberinfrastructure engagement  
-- student access to advanced computing education  
+* research capacity
+* data science and AI capabilities
+* national cyberinfrastructure engagement
+* student access to advanced computing education
 
-This site serves as the **public gateway** to those resources while JSU continues building toward a full institutional cyberinfrastructure platform.
-
----
-
-**Jackson State University Research Computing**  
-Empowering discovery through computing.
+This portal serves as the **public gateway** to those resources while JSU continues building a full institutional cyberinfrastructure platform.
