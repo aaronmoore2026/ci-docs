@@ -16,21 +16,6 @@ title: System Architecture
 
 ## How the Research Computing Portal Works
 
-The JSU Research Computing system is organized into several components that work together.
-
-Researchers / Students
-        |
-        v
-JSU Research Computing Portal
-(ci-docs GitHub Pages site)
-        |
-        v
-Documentation Repositories
-(ci-policy • training • examples)
-        |
-        v
-Computing Infrastructure
-(HTCondor • OSG • campus resources)
 
 ---
 
