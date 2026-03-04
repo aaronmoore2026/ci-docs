@@ -78,11 +78,9 @@ Welcome to **Jackson State University Research Computing (RC)** — a campus ser
 
 ## Behind the portal (for the team)
 
-This site is the front-end for the JSU Research Computing GitHub organization:
+This site is the front-end for the JSU Research Computing GitHub organization: https://github.com/jsu-research-computing
 
-https://github.com/jsu-research-computing
 
-Key repositories:
 ### Key Repositories
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:10px;">
