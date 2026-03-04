@@ -7,10 +7,9 @@
 
 ---
 
----
 # HTCondor Job Examples
 
-JSU Research Computing provides ready-to-use **HTCondor example workflows** to help new users quickly learn how to run computational jobs on shared cyberinfrastructure systems.
+JSU Research Computing provides ready-to-use **HTCondor example workflows** to help new users learn how to run computational jobs on shared cyberinfrastructure systems.
 
 These examples are designed to be:
 
@@ -20,33 +19,53 @@ These examples are designed to be:
 
 ---
 
-## Example Repository
+# Run Your First Job
 
-All official JSU HTCondor examples are maintained in the public repository:
+If you are new to JSU Research Computing, start with a **simple test job** to confirm your environment works correctly.
+
+### Step 1 — Open the official examples repository
 
 ➡ **HTCondor Examples (GitHub)**  
 https://github.com/jsu-research-computing/htcondor-examples
 
-Users can download, copy, and adapt these templates for coursework, research, and experimentation.
+Start with the **hello-world** example.
 
 ---
 
-## Included Workflows
+### Step 2 — Basic workflow
 
-The example repository currently includes:
+Most HTCondor jobs follow this process:
 
-### Hello World Job
+1. Connect to the submit node
+2. Navigate to the example directory
+3. Submit the job
+4. Monitor the job queue
+5. Retrieve the output files
+
+This verifies that your environment and job configuration are working properly.
+
+---
+
+# Included Workflows
+
+The example repository currently includes several starter workflows.
+
+---
+
+## Hello World Job
+
 A minimal HTCondor job demonstrating:
 
 - basic submit file structure  
 - job execution and logging  
 - output file generation  
 
-This is the recommended **first job** for all new users.
+This is the recommended **first job for all new users**.
 
 ---
 
-### File Transfer Job
+## File Transfer Job
+
 Shows how to:
 
 - send input files to compute nodes  
@@ -57,7 +76,8 @@ This pattern is essential for **real research workloads**.
 
 ---
 
-### DAGMan Workflow
+## DAGMan Workflow
+
 Demonstrates:
 
 - multi-step job pipelines  
@@ -68,18 +88,21 @@ This example prepares users for **advanced computational research**.
 
 ---
 
-## How to Use These Examples
+# How to Use These Examples
 
-1. Clone or download the repository.  
-2. Read the README inside each example folder.  
-3. Modify file paths and resource requests for your project.  
-4. Submit jobs using HTCondor on JSU systems.  
+1. Clone or download the repository.
+2. Read the README inside each example folder.
+3. Modify file paths and resource requests for your project.
+4. Submit jobs using HTCondor on JSU systems.
 
-New users should complete **training modules** before running large workloads.
+New users should complete the **training modules** before running large workloads.
+
+➡ Training:  
+/ci-docs/training/
 
 ---
 
-## Need Help?
+# Need Help?
 
 The **Cyberinfrastructure Facilitation Team** can assist with:
 
@@ -88,4 +111,6 @@ The **Cyberinfrastructure Facilitation Team** can assist with:
 - scaling workflows for large datasets  
 - connecting to national HTC resources  
 
-➡ Visit the **Support** page for assistance.
+➡ Visit the **Support** page:
+
+/ci-docs/support/
