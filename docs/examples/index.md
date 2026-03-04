@@ -8,7 +8,13 @@
 ---
 
 # HTCondor Job Examples
+---
 
+➡ **Open the official HTCondor example repository**
+
+[Open HTCondor Examples](https://github.com/jsu-research-computing/htcondor-examples)
+
+---
 JSU Research Computing provides ready-to-use **HTCondor example workflows** to help new users learn how to run computational jobs on shared cyberinfrastructure systems.
 
 These examples are designed to be:
@@ -62,6 +68,9 @@ A minimal HTCondor job demonstrating:
 
 This is the recommended **first job for all new users**.
 
+Example location in repository:
+
+https://github.com/jsu-research-computing/htcondor-examples/tree/main/hello-world
 ---
 
 ## File Transfer Job
