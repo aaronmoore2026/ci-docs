@@ -1,11 +1,6 @@
 # Resources
 
-[Home]({{ site.baseurl }}/) | 
-[Access]({{ site.baseurl }}/get-access/) | 
-[Training]({{ site.baseurl }}/training/) | 
-[Resources]({{ site.baseurl }}/resources/) | 
-[OSG @ JSU]({{ site.baseurl }}/osg/) | 
-[Support]({{ site.baseurl }}/support/)
+[Home](https://jsu-research-computing.github.io/ci-docs/) | [Access](https://jsu-research-computing.github.io/ci-docs/get-access/) | [Training](https://jsu-research-computing.github.io/ci-docs/training/) | [Resources](https://jsu-research-computing.github.io/ci-docs/resources/) | [OSG @ JSU](https://jsu-research-computing.github.io/ci-docs/osg/) | [Support](https://jsu-research-computing.github.io/ci-docs/support/)
 
 ---
 
@@ -24,5 +19,5 @@ This page collects the most important JSU Research Computing documents, tools, a
 - [Example workflows (htcondor-examples)](https://github.com/jsu-research-computing/htcondor-examples)
 
 ## System Specs
-- [JSU System Specs Page]({{ site.baseurl }}/system-specs/)
-- [JSU Chassis Specs PDF](../assets/jsu-chassis-specs.pdf)
+- [JSU System Specs Page](https://jsu-research-computing.github.io/ci-docs/system-specs/)
+- [JSU Chassis Specs PDF](https://jsu-research-computing.github.io/ci-docs/assets/jsu-chassis-specs.pdf)
