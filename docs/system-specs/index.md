@@ -42,7 +42,7 @@ This node supports:
 
 ## Official Specs Document
 
-➡️ **[Open JSU Chassis Specs PDF](PASTE_PDF_LINK_HERE)**
+➡️ [Open JSU Chassis Specs PDF](../assets/jsu-chassis-specs.pdf)
 
 ---
 
