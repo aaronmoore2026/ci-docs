@@ -21,7 +21,7 @@ Use this quick onboarding path. Each step has a direct link.
 
 Start the onboarding process and complete the official CI Facilitation form.
 
-➡️ **[Open CI Facilitation Form](PASTE_GOOGLE_FORM_LINK_HERE)**  
+➡️ [Open CI Facilitation Form](https://docs.google.com/forms/d/e/1FAIpQLSc_H6IfdfO_usJRaWWcZ0D0JzeA8xBuAAxHAOHH9tqw61aaYA/viewform) 
 📄 **[Go to Get Access Page](/ci-docs/get-access/)**
 
 ---
