@@ -24,5 +24,5 @@ This page collects the most important JSU Research Computing documents, tools, a
 - [Example workflows (htcondor-examples)](https://github.com/jsu-research-computing/htcondor-examples)
 
 ## System Specs
-- [JSU System Specs Page](/ci-docs/system-specs/)
+- [JSU System Specs Page]({{ site.baseurl }}/system-specs/)
 - [JSU Chassis Specs PDF](../assets/jsu-chassis-specs.pdf)
